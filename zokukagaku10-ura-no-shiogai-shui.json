@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/ura-no-shiogai-shui",
  "yomi": "うらのしおがいしゅうい",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（他撰）",
+  "era": "安政3年（1856）8月序",
+  "author": "熊谷直好（1782〜1862）",
+  "desc": "『浦のしほ貝』刊行後に、難波の門人たちが直好の歌を拾い集めて編んだ後集。序は香川景恒が書いた。"
+ },
  "editions": [
   {
    "pid": "993388",
